@@ -1,0 +1,25 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deserción Escolar</title>
+  <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+  <h1>Deserción Escolar</h1>
+
+  <div class="contenedor-imagen">
+    <img src="imagen-desercion-escolar.jpg" alt="Deserción Escolar">
+  </div>
+
+  <div class="contenedor-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/video-desercion" frameborder="0" allowfullscreen></iframe>
+  </div>
+
+  <div class="contenedor-informacion">
+    <h2>¿Qué es la deserción escolar?</h2>
+    <p>La deserción escolar es el abandono prematuro de los estudios por parte de los estudiantes antes de completar su educación formal. Este problema puede tener diversas causas, como problemas familiares, falta de motivación, dificultades académicas, entre otros.</p>
+  </div>
+</body>
+</html>
+```
